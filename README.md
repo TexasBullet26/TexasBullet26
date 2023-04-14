@@ -4,7 +4,7 @@
 
 My name's Trey...
 
-👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In the past couple of years, I've been focusing on **Blockchain development & DApps** (Cosmos, Layer 2 technology such as Polygon, Optimism, and Mina, DeFi, Derivatives, and Synthetics. Projects I truly believe in:
+👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In the past couple of years, I've been focusing on **Blockchain development & DApps** (Cosmos, Layer 2 technology such as: Polygon, Arbitrum, Optimism and Mina. DeFi, Derivatives and Synthetics). Projects I truly believe in:
 
 - **Bitcoin** Gold
 - **Ethereum** Infrastructure
@@ -18,17 +18,18 @@ My name's Trey...
 - **Ethereum Name Service** Blockchains DNS
 - **Avalanche** Gaming
 - **SYN**
+- **Arbitrum**
 - **Optimism**
 - **Mina Protocol**
 - **SHIBA**
 
-The future of technology is going to be fascinating and I'm glad to be a part of it.
+The future of technology looks to be fascinating and I'm glad to be a part of it.
 
-🏈 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from playing/ watching **sports** to **music**.
+🏈 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from playing/ watching **sports** to making **music**.
 
-📚 I also love reading books on **personal development** & ****. My favorite ones are...
+📚 I also love reading books on **Personal Development** & **Science**. My favorites are "How to Win Friends and Influence People" - Dale Carnegie, "The 48 Laws of Power" - Robert Greene, "The Art of War" - Sun Tzu, "Emotional Intelligence" - Daniel Goleman.
 
-✈️ I love **traveling** too. I have been on trips to **38 of 50** States. I have also made trips to **Mexico** and **Canada** (drove to Calgary from Montana).
+✈️ I love **traveling** as well. I have been on trips to **38 of the 50** States. I have also made trips to **Mexico** and **Canada** (drove to Calgary from Montana).
 
 ## 🏅 Achievements
 
