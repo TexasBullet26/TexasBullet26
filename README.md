@@ -23,6 +23,8 @@ My name's Trey...
 - **Mina Protocol**
 - **SHIBA**
 
+I also focus on Javascript, Python, Go and Data Analysis mixed in with some Cyber Security.
+
 The future of technology looks to be fascinating and I'm glad to be a part of it.
 
 🏈 Outside the world of tech, I enjoy pushing myself to develop new skills. My hobbies range from playing/ watching **sports** to making **music**.
