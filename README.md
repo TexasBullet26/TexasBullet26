@@ -2,28 +2,13 @@
 
 ## 🚀 About Me
 
+**Fullstack Developer**
+
 My name's Trey...
 
-👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In the past couple of years, I've been focusing on **Blockchain development & DApps** (Cosmos, Layer 2 technology such as: Polygon, Arbitrum, Optimism and Mina. DeFi, Derivatives and Synthetics). Projects I truly believe in:
+👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In the past, I've worked with **Blockchain development & DApps**. For the past couple of years I've pivoted to the **AI** revolution.
 
-- **Bitcoin** Gold
-- **Ethereum** Infrastructure
-- **Polygon** Layer 2 Zero Knowledge Proofs
-- **Cosmos** IBC Cross Chain
-- **XRP** Value
-- **Solana**
-- **Filecoin** AI
-- **ADA**
-- **Injective**
-- **Ethereum Name Service** Blockchains DNS
-- **Avalanche** Gaming
-- **SYN**
-- **Arbitrum**
-- **Optimism**
-- **Mina Protocol**
-- **SHIBA**
-
-I also focus on Javascript, Python, Go and Data Analysis mixed in with some Cyber Security.
+I also focus on Javascript, **Python**, Go and Data Analysis mixed in with some Cyber Security.
 
 The future of technology looks to be fascinating and I'm glad to be a part of it.
 
